@@ -1,5 +1,5 @@
 HELP.md
-.resources
+/src/main/resources/application.properties
 .gitignore
 target/
 !.mvn/wrapper/maven-wrapper.jar
